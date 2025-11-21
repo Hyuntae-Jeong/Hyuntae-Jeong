@@ -14,7 +14,7 @@
   <br/>
 </p>
 
-[![Skills](https://skills.syvixor.com/api/icons?i=mariadb)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=kafka,redis,mariadb,hibernate)](https://github.com/syvixor/skills-icons)
 
 <p>
   <a href="https://skillicons.dev">

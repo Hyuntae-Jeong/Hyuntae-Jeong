@@ -1,11 +1,12 @@
 ## 💪🏼Work Out  👨‍💻Code  🔁Repeat
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,idea,maven,linux,redhat,docker,bash,vim,git,gitlab,jenkins,kafka,redis,mysql,hibernate" />
   </a>
   <br/>
 </p>
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jht0717)](https://solved.ac/jht0717/)

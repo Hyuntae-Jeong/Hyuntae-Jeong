@@ -2,18 +2,31 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,idea,maven,linux,redhat,docker,bash,vim,git,gitlab,jenkins,kafka,redis,mysql,hibernate" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,idea,vscode,maven" />
   </a>
   <br/>
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,c,cpp,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,redhat,docker,bash,vim" />
   </a>
   <br/>
 </p>
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,redis,mysql,hibernate" />
+  </a>
+  <br/>
+</p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,jenkins" />
+  </a>
+  <br/>
+</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jht0717)](https://solved.ac/jht0717/)
 

@@ -16,7 +16,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka,redis,mysql,hibernate" />
+    <img src="https://skillicons.dev/icons?i=kafka,redis,mariadb,hibernate" />
   </a>
   <br/>
 </p>

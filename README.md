@@ -16,12 +16,12 @@
 
 [![Skills](https://skills.syvixor.com/api/icons?i=kafka,redis,clickhouse,mariadb,hibernate)](https://github.com/syvixor/skills-icons)
 
-<p>
+<!-- <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kafka,redis,mysql,hibernate" />
   </a>
   <br/>
-</p>
+</p> -->
 
 <p>
   <a href="https://skillicons.dev">

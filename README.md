@@ -23,6 +23,8 @@
   <br/>
 </p> -->
 
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=claudeai,codex,chatgpt,googlegemini)](https://github.com/syvixor/skills-icons)
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,jenkins" />

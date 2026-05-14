@@ -1,18 +1,21 @@
 ## 💪🏼Work Out  👨‍💻Code  🔁Repeat
 
-<p>
+<!-- <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,idea,vscode,maven" />
   </a>
   <br/>
-</p>
+</p> -->
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=java,intellijidea,visualstudiocode,apachemaven,fleet)](https://github.com/syvixor/skills-icons)
 
-<p>
+<!-- <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,redhat,docker,bash,vim" />
   </a>
   <br/>
-</p>
+</p> -->
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=linux,redhat,bash,vim,docker)](https://github.com/syvixor/skills-icons)
+
 
 [![Skills](https://skills.syvixor.com/api/icons?i=kafka,redis,clickhouse,mariadb,hibernate)](https://github.com/syvixor/skills-icons)
 
@@ -25,12 +28,16 @@
 
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=claudeai,codex,chatgpt,googlegemini)](https://github.com/syvixor/skills-icons)
 
-<p>
+<!-- <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,jenkins" />
   </a>
   <br/>
-</p>
+</p> -->
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=git,gitlab,jenkins)](https://github.com/syvixor/skills-icons)
+
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=windows,apple)](https://github.com/syvixor/skills-icons)
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jht0717)](https://solved.ac/jht0717/)
 

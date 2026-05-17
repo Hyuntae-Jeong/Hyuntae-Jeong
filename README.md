@@ -42,20 +42,9 @@
 
 ## 🤝 Contributions
 
-<table>
-  <tr>
-    <td width="400">
-      <h3>📦 <a href="https://github.com/syvixor/skills-icons">syvixor / skills-icons</a></h3>
-      <p>Beautiful, customizable skill icons for GitHub READMEs</p>
-      <p>
-        <a href="https://github.com/syvixor/skills-icons/pull/408">
-          <img src="https://img.shields.io/badge/PR-%23408_merged-8957e5?style=flat&logo=github" />
-        </a>
-        <img src="https://img.shields.io/github/stars/syvixor/skills-icons?style=flat&logo=github" />
-      </p>
-    </td>
-  </tr>
-</table>
+[![syvixor/skills-icons](https://img.shields.io/badge/repo-syvixor%2Fskills--icons-0969da?style=flat&logo=github)](https://github.com/syvixor/skills-icons)
+[![PR #408](https://img.shields.io/badge/PR-%23408_merged-8957e5?style=flat&logo=github)](https://github.com/syvixor/skills-icons/pull/408)
+[![Stars](https://img.shields.io/github/stars/syvixor/skills-icons?style=flat&logo=github)](https://github.com/syvixor/skills-icons)
 
 
 

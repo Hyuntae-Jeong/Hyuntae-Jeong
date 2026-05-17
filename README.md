@@ -42,8 +42,20 @@
 
 ## 🤝 Contributions
 
-[![skills-icons](https://github-readme-stats.vercel.app/api/pin/?username=syvixor&repo=skills-icons&theme=github_dark)](https://github.com/syvixor/skills-icons)
-
+<table>
+  <tr>
+    <td width="400">
+      <h3>📦 <a href="https://github.com/syvixor/skills-icons">syvixor / skills-icons</a></h3>
+      <p>Beautiful, customizable skill icons for GitHub READMEs</p>
+      <p>
+        <a href="https://github.com/syvixor/skills-icons/pull/408">
+          <img src="https://img.shields.io/badge/PR-%23408_merged-8957e5?style=flat&logo=github" />
+        </a>
+        <img src="https://img.shields.io/github/stars/syvixor/skills-icons?style=flat&logo=github" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 

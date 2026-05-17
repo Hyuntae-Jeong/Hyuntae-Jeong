@@ -17,6 +17,7 @@
 ## 🤝 Opensource Contributions
 
 [![syvixor/skills-icons](https://img.shields.io/badge/repo-syvixor%2Fskills--icons-0969da?style=flat&logo=github)](https://github.com/syvixor/skills-icons)
+[![Issue #317](https://img.shields.io/badge/issue-%23317_open-2ea44f?style=flat&logo=github)](https://github.com/syvixor/skills-icons/issues/317)
 [![PR #408](https://img.shields.io/badge/PR-%23408_merged-8957e5?style=flat&logo=github)](https://github.com/syvixor/skills-icons/pull/408)
 [![Stars](https://img.shields.io/github/stars/syvixor/skills-icons?style=flat&logo=github)](https://github.com/syvixor/skills-icons)
 

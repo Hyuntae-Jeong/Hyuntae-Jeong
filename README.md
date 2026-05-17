@@ -39,6 +39,14 @@
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=windows,apple)](https://github.com/syvixor/skills-icons)
 
 
+
+## 🤝 Contributions
+
+[![skills-icons](https://github-readme-stats.vercel.app/api/pin/?username=syvixor&repo=skills-icons&theme=github_dark)](https://github.com/syvixor/skills-icons)
+
+
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jht0717)](https://solved.ac/jht0717/)
 
 

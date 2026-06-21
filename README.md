@@ -28,6 +28,8 @@
 [![PR #408](https://img.shields.io/badge/PR-%23408_merged-8957e5?style=flat&logo=github)](https://github.com/syvixor/skills-icons/pull/408)
 [![Stars](https://img.shields.io/github/stars/syvixor/skills-icons?style=flat&logo=github)](https://github.com/syvixor/skills-icons)
 
+<!--
 ## 🧩 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jht0717)](https://solved.ac/jht0717/)
+-->

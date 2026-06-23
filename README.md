@@ -21,6 +21,12 @@
 [![Stars](https://img.shields.io/github/stars/Hyuntae-Jeong/Pinstock?style=flat&logo=github)](https://github.com/Hyuntae-Jeong/Pinstock/stargazers)
 [![Latest Release](https://img.shields.io/github/v/release/Hyuntae-Jeong/Pinstock?style=flat&logo=github&color=blue)](https://github.com/Hyuntae-Jeong/Pinstock/releases/latest)
 
+### 📌 Sealock - MariaDB Envers Audit History Viewer
+[![Hyuntae-Jeong/Sealock](https://img.shields.io/badge/repo-Hyuntae--Jeong%2FSealock-0969da?style=flat&logo=github)](https://github.com/Hyuntae-Jeong/Sealock)
+[![Downloads](https://img.shields.io/github/downloads/Hyuntae-Jeong/Sealock/total?style=flat&logo=github&color=brightgreen&label=downloads)](https://github.com/Hyuntae-Jeong/Sealock/releases)
+[![Stars](https://img.shields.io/github/stars/Hyuntae-Jeong/Sealock?style=flat&logo=github)](https://github.com/Hyuntae-Jeong/Sealock/stargazers)
+[![Latest Release](https://img.shields.io/github/v/release/Hyuntae-Jeong/Sealock?style=flat&logo=github&color=blue)](https://github.com/Hyuntae-Jeong/Sealock/releases/latest)
+
 ## 🤝 Opensource Contributions
 
 [![syvixor/skills-icons](https://img.shields.io/badge/repo-syvixor%2Fskills--icons-0969da?style=flat&logo=github)](https://github.com/syvixor/skills-icons)

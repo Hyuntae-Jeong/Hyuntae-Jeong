@@ -27,6 +27,12 @@
 [![Stars](https://img.shields.io/github/stars/Hyuntae-Jeong/Sealock?style=flat&logo=github)](https://github.com/Hyuntae-Jeong/Sealock/stargazers)
 [![Latest Release](https://img.shields.io/github/v/release/Hyuntae-Jeong/Sealock?style=flat&logo=github&color=blue)](https://github.com/Hyuntae-Jeong/Sealock/releases/latest)
 
+### 🐈 Woodada - CPU & Memory Cats Running on Your Taskbar
+[![Hyuntae-Jeong/Woodada](https://img.shields.io/badge/repo-Hyuntae--Jeong%2FWoodada-0969da?style=flat&logo=github)](https://github.com/Hyuntae-Jeong/Woodada)
+[![Downloads](https://img.shields.io/github/downloads/Hyuntae-Jeong/Woodada/total?style=flat&logo=github&color=brightgreen&label=downloads)](https://github.com/Hyuntae-Jeong/Woodada/releases)
+[![Stars](https://img.shields.io/github/stars/Hyuntae-Jeong/Woodada?style=flat&logo=github)](https://github.com/Hyuntae-Jeong/Woodada/stargazers)
+[![Latest Release](https://img.shields.io/github/v/release/Hyuntae-Jeong/Woodada?style=flat&logo=github&color=blue)](https://github.com/Hyuntae-Jeong/Woodada/releases/latest)
+
 ## 🤝 Opensource Contributions
 
 [![syvixor/skills-icons](https://img.shields.io/badge/repo-syvixor%2Fskills--icons-0969da?style=flat&logo=github)](https://github.com/syvixor/skills-icons)
